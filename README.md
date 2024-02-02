@@ -4,4 +4,4 @@ Since then, I have been enjoying learning and creating code for embedded systems
 
 I have worked with C/C++, .NET, Python, and Matlab & Simulink.
 
-I am currently working on multiple projects: Arduino library for ADXL372 accelerometer, a Python App that generates a detailed report of your electricity consumption, and a cross-platform MAUI app for your daily tasks.
+I am currently working on multiple projects: Arduino library for ADXL372 accelerometer, and a Python App that generates a detailed report of your electricity consumption
